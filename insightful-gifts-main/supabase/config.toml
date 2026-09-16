@@ -1,0 +1,4 @@
+project_id = "xfxooiiqkxzkdxgytdmu"
+
+[functions.gift-recommend]
+verify_jwt = false
